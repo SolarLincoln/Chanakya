@@ -19,7 +19,7 @@ Chanakya will document my journey to understand, analyze, visualize, and train a
    - Implemented **Principal Component Analysis (PCA)** to reduce the number of features and improve model interpretability.
 
 - **Model Evaluation:**
-   - Evaluated the model's performance using **Accuracy** and **F1 score**.
+   - Evaluated the model's performance, achieving up to a **Classification Accuracy** of 98.96% and **F1 score** of 98.65%.
    - Benchmarked the model both **before and after applying PCA** to assess dimensionality reduction benefits.
 
 ## Future Goals 🤔:
