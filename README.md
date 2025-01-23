@@ -1,6 +1,6 @@
 # Chanakya ✍️
 
-Chanakya will document my journey to understand, analyze, visualize, and train a model on the UCI 'Audit Data' dataset.
+Chanakya documents my journey to understand, analyze, visualize, and train a model on the UCI 'Audit Data' dataset.
 
 ## Initial Goals:
 - Identify **warning signs** and risk factors for fraud or suspicious activity.
