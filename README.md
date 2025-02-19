@@ -25,4 +25,5 @@ Chanakya documents my journey to understand, analyze, visualize, and train a mod
 ## Future Goals 🤔:
 - Experiment with other classification algorithms (e.g., **Random Forest**, **Bagging**) to compare performance.
 - Tune model hyperparameters for **optimal performance**.
-- Investigate other feature engineering techniques to enhance model predictions.
+- Investigate other feature engineering techniques to enhance model predictions. I tried creating additional custom features using existing columns, but the effect on accuracy was little-to-none so the idea and code was scrapped.
+- Use PCA loading scores to further analyze the effects of the features on the components, to shed more light on the ranking of features by importance, hopefully leading to a more intuitive understanding of this nebulous dataset.
